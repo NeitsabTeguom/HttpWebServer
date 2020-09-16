@@ -1,0 +1,11 @@
+C:\Users\X1009130\source\repos\HttpWebServer\bin\Debug\netcoreapp3.1\HttpWebServer.exe
+C:\Users\X1009130\source\repos\HttpWebServer\bin\Debug\netcoreapp3.1\HttpWebServer.deps.json
+C:\Users\X1009130\source\repos\HttpWebServer\bin\Debug\netcoreapp3.1\HttpWebServer.runtimeconfig.json
+C:\Users\X1009130\source\repos\HttpWebServer\bin\Debug\netcoreapp3.1\HttpWebServer.runtimeconfig.dev.json
+C:\Users\X1009130\source\repos\HttpWebServer\bin\Debug\netcoreapp3.1\HttpWebServer.dll
+C:\Users\X1009130\source\repos\HttpWebServer\bin\Debug\netcoreapp3.1\HttpWebServer.pdb
+C:\Users\X1009130\source\repos\HttpWebServer\obj\Debug\netcoreapp3.1\HttpWebServer.AssemblyInfoInputs.cache
+C:\Users\X1009130\source\repos\HttpWebServer\obj\Debug\netcoreapp3.1\HttpWebServer.AssemblyInfo.cs
+C:\Users\X1009130\source\repos\HttpWebServer\obj\Debug\netcoreapp3.1\HttpWebServer.dll
+C:\Users\X1009130\source\repos\HttpWebServer\obj\Debug\netcoreapp3.1\HttpWebServer.pdb
+C:\Users\X1009130\source\repos\HttpWebServer\obj\Debug\netcoreapp3.1\HttpWebServer.csprojAssemblyReference.cache
