@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\X1009130\\source\\repos\\HttpWebServer\\HttpWebServer.csproj": {}
+    "C:\\PERSO\\DEV\\HttpWebServer\\HttpWebServer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\X1009130\\source\\repos\\HttpWebServer\\HttpWebServer.csproj": {
+    "C:\\PERSO\\DEV\\HttpWebServer\\HttpWebServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\X1009130\\source\\repos\\HttpWebServer\\HttpWebServer.csproj",
+        "projectUniqueName": "C:\\PERSO\\DEV\\HttpWebServer\\HttpWebServer.csproj",
         "projectName": "HttpWebServer",
-        "projectPath": "C:\\Users\\X1009130\\source\\repos\\HttpWebServer\\HttpWebServer.csproj",
+        "projectPath": "C:\\PERSO\\DEV\\HttpWebServer\\HttpWebServer.csproj",
         "packagesPath": "C:\\Users\\X1009130\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\X1009130\\source\\repos\\HttpWebServer\\obj\\",
+        "outputPath": "C:\\PERSO\\DEV\\HttpWebServer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -58,7 +58,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

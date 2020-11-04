@@ -2,7 +2,7 @@
   "profiles": {
     "HttpWebServer": {
       "commandName": "Project",
-      "commandLineArgs": "http://localhost:8080/test/ c:\\tmp\\"
+      "commandLineArgs": "http://localhost:8080/ c:\\tmp\\"
     }
   }
 }

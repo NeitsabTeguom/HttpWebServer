@@ -27,7 +27,12 @@ namespace HttpWebServer
             string s = reader.ReadToEnd();
             try
             {
-                System.IO.File.WriteAllText(System.IO.Path.Combine(Path, DateTime.Now.Ticks.ToString() + ".txt"), s, encoding);
+                string prefix = "";
+                if(request.RawUrl != "" && request.RawUrl != "/")
+                {
+                    prefix = request.RawUrl.Substring(1).Replace("/", "-");
+                }
+                System.IO.File.WriteAllText(System.IO.Path.Combine(Path, prefix + DateTime.Now.Ticks.ToString() + ".txt"), s, encoding);
             }
             catch(Exception ex)
             {

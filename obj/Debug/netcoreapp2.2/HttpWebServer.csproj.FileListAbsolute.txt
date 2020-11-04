@@ -8,3 +8,15 @@ C:\Users\X1009130\source\repos\HttpWebServer\obj\Debug\netcoreapp2.2\HttpWebServ
 C:\Users\X1009130\source\repos\HttpWebServer\obj\Debug\netcoreapp2.2\HttpWebServer.AssemblyInfo.cs
 C:\Users\X1009130\source\repos\HttpWebServer\obj\Debug\netcoreapp2.2\HttpWebServer.dll
 C:\Users\X1009130\source\repos\HttpWebServer\obj\Debug\netcoreapp2.2\HttpWebServer.pdb
+C:\PERSO\DEV\HttpWebServer\bin\Debug\netcoreapp2.2\HttpWebServer.deps.json
+C:\PERSO\DEV\HttpWebServer\bin\Debug\netcoreapp2.2\HttpWebServer.runtimeconfig.json
+C:\PERSO\DEV\HttpWebServer\bin\Debug\netcoreapp2.2\HttpWebServer.runtimeconfig.dev.json
+C:\PERSO\DEV\HttpWebServer\bin\Debug\netcoreapp2.2\HttpWebServer.dll
+C:\PERSO\DEV\HttpWebServer\bin\Debug\netcoreapp2.2\HttpWebServer.pdb
+C:\PERSO\DEV\HttpWebServer\obj\Debug\netcoreapp2.2\HttpWebServer.csprojAssemblyReference.cache
+C:\PERSO\DEV\HttpWebServer\obj\Debug\netcoreapp2.2\HttpWebServer.AssemblyInfoInputs.cache
+C:\PERSO\DEV\HttpWebServer\obj\Debug\netcoreapp2.2\HttpWebServer.AssemblyInfo.cs
+C:\PERSO\DEV\HttpWebServer\obj\Debug\netcoreapp2.2\HttpWebServer.dll
+C:\PERSO\DEV\HttpWebServer\obj\Debug\netcoreapp2.2\HttpWebServer.pdb
+C:\PERSO\DEV\HttpWebServer\obj\Debug\netcoreapp2.2\HttpWebServer.csproj.CoreCompileInputs.cache
+C:\PERSO\DEV\HttpWebServer\obj\Debug\netcoreapp2.2\HttpWebServer.genruntimeconfig.cache
