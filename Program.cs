@@ -6,7 +6,7 @@ namespace HttpWebServer
 {
     internal class Program
     {
-        private static string Path = @"C:\tmp";
+        private static string path = @"C:\tmp";
         public static string SendResponse(HttpListenerRequest request)
         {
             if (!request.HasEntityBody)
@@ -37,7 +37,7 @@ namespace HttpWebServer
                 {
                     prefix = request.RawUrl.Substring(1).Replace("/", "-");
                 }
-                System.IO.File.WriteAllText(System.IO.Path.Combine(Path, prefix + DateTime.Now.Ticks.ToString() + "." + ext), s, encoding);
+                System.IO.File.WriteAllText(System.IO.Path.Combine(path, prefix + DateTime.Now.Ticks.ToString() + "." + ext), s, encoding);
             }
             catch(Exception ex)
             {
@@ -55,7 +55,7 @@ namespace HttpWebServer
         {
             if (args.Length >= 2)
             {
-                Path = args[1];
+                path = args[1];
                 var ws = new HttpWebServer(SendResponse, args[0]);
                 ws.Run();
                 Console.WriteLine("A simple webserver. Press a key to quit.");
@@ -70,12 +70,6 @@ namespace HttpWebServer
             }
         }
 
-        public class FileInfo
-        {
-            public string Extension { get; set; }
-            public Func<string> Format { get; set; }
-        }
-
         public static Dictionary<string, string> MimeExts = new Dictionary<string, string>()
         {
             //fichier audio AAC
@@ -83,7 +77,7 @@ namespace HttpWebServer
             //document AbiWord
             { "application/x-abiword", "abw" },
             //archive (contenant plusieurs fichiers)
-            { "application/octet-stream", "arc" },
+            //{ "application/octet-stream", "arc" },
             //AVI : Audio Video Interleave
             { "video/x-msvideo", "avi" },
             //format pour eBook Amazon Kindle
