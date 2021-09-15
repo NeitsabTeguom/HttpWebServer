@@ -109,6 +109,8 @@ namespace HttpWebServer
             //fichier HyperText Markup Language (HTML)
             //{ "text/html", "htm
             { "text/html", "html" },
+            // Text
+            { "text/plain", "txt" },
             //icône   
             { "image/x-icon", "ico" },
             //élément iCalendar
