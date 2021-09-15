@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Net;
 using System.Text;
@@ -66,7 +66,7 @@ namespace HttpWebServer
                                 var buf = Encoding.UTF8.GetBytes(rstr);
                                 ctx.Response.ContentLength64 = buf.Length;
                                 ctx.Response.OutputStream.Write(buf, 0, buf.Length);
-                                //ctx.Response.StatusCode = 400;
+                                ctx.Response.StatusCode = 200;
                             }
                             catch
                             {
